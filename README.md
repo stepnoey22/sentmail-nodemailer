@@ -2,9 +2,9 @@
 Sent email by nodemailer
 
 # How to Run
-1. npm install <br/>
-2. npm run dev
-
-```JavaScript
+1. ```JavaScript
 npm install
+``` <br/>
+2. ```JavaScript
+npm run dev
 ```
