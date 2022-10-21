@@ -5,5 +5,6 @@ Sent email by nodemailer
 1. npm install <br/>
 2. npm run dev
 
-```npm install
+```JavaScript
+npm install
 ```
