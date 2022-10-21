@@ -2,6 +2,6 @@
 Sent email by nodemailer
 
 # How to Run
-npm i
+npm i <br/>
 npm run dev
 
