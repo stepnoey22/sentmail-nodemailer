@@ -4,8 +4,8 @@ Sent email by nodemailer
 # How to Run
 
 ```
-git status
-git add
-git commit
+npm install
+
+npm run dev
 ```
 
